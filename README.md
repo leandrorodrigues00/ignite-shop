@@ -12,16 +12,16 @@
 <p align="center">
  
  
-<img alt="project preview" src="./public/desktop-preview.png" width="75%"   >  
+<img alt="project preview" src="./src/assets/desktop-preview.jpg" width="75%"   >  
 </p>
 
 ## 👩‍💻 About the project
 
 The project is a REST Application for t-shirt sales, made with NextJS and integrated with STRIPE for payments, also contains a 2s delay so that you can view the skeleton screen.
 
-Built during [Rocketseat](https://rocketseat.com.br/) ReactJS course, where I was able to deepen my knowledge of this front-end library
-
  As per [STRIPE](https://stripe.com/docs/testing) documentation,to simulate a purchase, you can use the number: 4242424242424242 for the card, any future date, and any CVC.
+ 
+ Built during [Rocketseat](https://rocketseat.com.br/) ReactJS course, where I was able to deepen my knowledge of this front-end library
 
 [click here, see closer](https://ignite-shop-cs.vercel.app/) 😉
 
@@ -49,7 +49,7 @@ You can view the project layout through the links below:
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/leandrorodrigues00/coffee-delivery && cd coffee-delivery
+$ git clone https://github.com/leandrorodrigues00/ignite-shop && cd ignite-shop
 
 ```
 
