@@ -1,6 +1,6 @@
 # Ignite Shop - Your favorite clothing 🎩
 
-<br><br>
+<br>
 
 <p align="center">
   <a href="#-about-the-project">About the project</a> •
