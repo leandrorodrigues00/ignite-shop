@@ -19,7 +19,7 @@
 
 The project is a REST Application for t-shirt sales, made with NextJS and integrated with STRIPE for payments, also contains a 2s delay so that you can view the skeleton screen.
 
- As per [STRIPE](https://stripe.com/docs/testing) documentation,to simulate a purchase, you can use the number: 4242424242424242 for the card, any future date, and any CVC.
+ As per [STRIPE](https://stripe.com/docs/testing) documentation,to simulate a purchase, you can use the number: 4242424242424242 for the card, any future date, and any CVC/e-mail/name.
  
  Built during [Rocketseat](https://rocketseat.com.br/) ReactJS course, where I was able to deepen my knowledge of this front-end library
 
