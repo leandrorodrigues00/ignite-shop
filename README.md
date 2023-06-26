@@ -17,10 +17,10 @@
 
 ## 👩‍💻 About the project
 
-The project is a REST Application for t-shirt sales, made with NextJS and integrated with STRIPE for payments, also contains a 2s delay so that you can view the skeleton screen.
+This project, built with NextJS, offers a seamless online shopping experience for t-shirts. It utilizes the powerful payment processing capabilities of [STRIPE](https://stripe.com/), ensuring secure and convenient transactions for customers. Also contains a 2s delay so that you can view the skeleton screen.
 
- As per [STRIPE](https://stripe.com/docs/testing) documentation, to simulate a purchase, you can use the number: 4242424242424242 for the card, any future date, and any CVC/e-mail/name.
- 
+To facilitate testing and demonstrate the payment functionality, the [STRIPE](https://stripe.com/docs/testing) documentation suggests using the following details: Card Number: 4242424242424242, any future date for expiration, and any CVC, email, or name.
+
 [click here, see closer](https://ignite-shop-cs.vercel.app/) 😉
 
 ## 🔖 Layout
@@ -34,6 +34,7 @@ You can view the project layout through the links below:
 ## 🚀 Technologies
 
 - [NextJs](https://nextjs.org/)
+- [Radix UI](https://www.radix-ui.com/)
 - [Stitches](https://stitches.dev/)
 - [Stripe](https://stripe.com/br)
 
